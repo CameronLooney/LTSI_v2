@@ -24,7 +24,7 @@ def app():
         - **Upload 1:** Raw LTSI download \n
         - **Upload 2:** Upload Updated Open Order File from Yesterday (the one uploaded to Box) \n
         - **Upload 3:** File with list of MPNs that are Valid LTSI and the date they became LTSI
-        - **Upload 4:** Upload Raw Backlog file (downloaded from ZV06 using variant)\n""")
+        - **Upload 4:** Upload Raw Backlog file (downloaded from ZV07 using variant)\n""")
 
 
     upload_ltsi_raw, upload_previous_open_orders, upload_mpn, upload_backlog = upload_files()
